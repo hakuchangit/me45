@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "18ab9d20eefd8e088b29c01b0e0a5c17"
+build_time: [1563341207, 769183000]
+inputs:
+  "/Users/hakuchan/Desktop/taipuri_develop1/me45/me3/ViewController.swift": [1550238120, 632021785]
+  "/Users/hakuchan/Desktop/taipuri_develop1/me45/me3/PastmemoViewController.swift": [1550650370, 875428677]
+  "/Users/hakuchan/Desktop/taipuri_develop1/me45/me3/newmemoViewController.swift": [1550649834, 448528886]
+  "/Users/hakuchan/Desktop/taipuri_develop1/me45/me3/AppDelegate.swift": [1549204619, 554509997]
+  "/Users/hakuchan/Desktop/taipuri_develop1/me45/DerivedData/me3/Build/Intermediates.noindex/me3.build/Debug-iphonesimulator/me3.build/DerivedSources/CoreDataGenerated/todo/Todo+CoreDataClass.swift": [1563341207, 363076090]
+  "/Users/hakuchan/Desktop/taipuri_develop1/me45/DerivedData/me3/Build/Intermediates.noindex/me3.build/Debug-iphonesimulator/me3.build/DerivedSources/CoreDataGenerated/todo/Todo+CoreDataProperties.swift": [1563341207, 364387276]
+  "/Users/hakuchan/Desktop/taipuri_develop1/me45/DerivedData/me3/Build/Intermediates.noindex/me3.build/Debug-iphonesimulator/me3.build/DerivedSources/CoreDataGenerated/todo/todo+CoreDataModel.swift": [1563341207, 358233704]
